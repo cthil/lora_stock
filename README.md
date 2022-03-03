@@ -7,4 +7,6 @@ The code itself is unmodified, whereas I have added project defintions and setti
 
 I have tested this with the LSN50-v2 and STM32CubeIDE 1.8.
 
+In order to import the project, open STM32CubeIDE, then select File -> Open Projects from File System and adjust the path for "Import Source" to the repo directory.
+
 -- Christophe
